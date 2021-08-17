@@ -2,7 +2,7 @@
 
 Sorawong Leardmongkonrut
 
-I'm newbie web developer using React, Node.js, MongoDB.
+Newbie web developer
 
 Now, I'm interest in MERN stack.
 
