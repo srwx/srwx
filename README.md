@@ -14,5 +14,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwx&theme=tokyonight)
 
-> Computer Engineering, King Mongkut's University of Technology Thonburi
-
