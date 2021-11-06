@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is"Wong". 👋</h2>
+<h2 align="center">Hello! My name is "Wong". 👋</h2>
 
 <h3>Languages and Frameworks</h3>
   <div style="display: flex;">
@@ -14,7 +14,6 @@
  <h3>In progess...</h3>
   <div style="display: flex;">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="amazonaws" />
   </div>
 
 
