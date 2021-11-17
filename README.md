@@ -1,4 +1,4 @@
-<h2 align="center">console.log("HelloWong!")</h2>
+<h2 align="center">console.log("HelloWong!") 🤗</h2>
 
 <h3>Languages and Frameworks</h3>
   <div style="display: flex;">
