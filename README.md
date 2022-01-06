@@ -1,5 +1,5 @@
 ## Welcome to wong's world! :wave:
-- :mortar_board: 3rd year computer engineering student at KMUTT.
+- :mortar_board: 3rd year computer engineering student from KMUTT.
 - :eyes: Passionate in full-stack developer.
 - :sparkles: Familiar with MERN Stack, Next.js.
 - :muscle: Always learning by doing.
