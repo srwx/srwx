@@ -29,7 +29,7 @@
 ## Stats :chart_with_upwards_trend:
 ![Sorawong's GitHub stats](https://github-readme-stats.vercel.app/api?username=srwx&show_icons=true&hide=stars,issues&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwx&layout=compact&langs_count=8)](https://github.com/srwx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srwx&layout=compact&langs_count=6)](https://github.com/srwx/github-readme-stats)
 
 
 
