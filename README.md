@@ -1,7 +1,7 @@
-## Welcome to wong's world! :wave:
-- :mortar_board: 4th-year Computer Engineering student from KMUTT.
-- :eyes: Passionate in full-stack developer.
-- :crescent_moon: Also interested in blockchain technology.
+## Hi there :wave:
+Hi! I'm Sorawong Leardmongkonrut, I am a graduate student with major in Computer Engineering, King Mongkut's University of Technology Thonburi.
+
+Currently, I'm a Software Engineer at Skooldio with proficiency in the Front-end development field. I loved crafting pixel-perfect websites from designs. Currently, I'm focused to be a Fullstack developer. My journey is learning a fundamental of Database, and a popular Back-end framework based on TypeScript.
 
 
 ## Experienced with :rocket:
